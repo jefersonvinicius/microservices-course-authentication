@@ -1,2 +1,2 @@
-FROM quay.io/keycloak/keycloak:11.0.0
+FROM quay.io/keycloak/keycloak:12.0.4
 
